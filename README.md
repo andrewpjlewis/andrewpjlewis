@@ -7,7 +7,7 @@ I'm Andrew Lewis, a student at Brigham Young University–Idaho interested in we
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently learning full-stack development with a focus on the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🎯 My goals are to build intuitive web apps, grow my software engineering skills, and contribute to open-source projects
+- 🎯 My goals are to design and build intuitive, visually engaging user interfaces, deepen my frontend development skills, and create delightful user experiences through thoughtful design and code.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or building responsive UI with **SCSS** and **CSS custom properties**
 
 ## 🛠️ Technologies and Tools
