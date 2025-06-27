@@ -22,8 +22,8 @@ I'm Andrew Lewis, a student at Brigham Young University–Idaho interested in we
 
 ## 🔗 Let's Connect
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-lewis-dev)  
-[![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andrewlewisdev)
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewlewis357/)  
+[![](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://mern-portfolio-hky9.onrender.com/)
 
 ---
 
